@@ -4,7 +4,7 @@ Learn how to develop app for VisionOS Apple Vision Pro, including displaying 3D 
 
 If you follow through this article, you can learn to make a mini game that shows robot in random location in the room and you can tap it to hide it
 
-<img src="https://article-images.mszpro.com/rack-a-bot-game-compressed.gif">
+![rack-a-bot-game.gif](https://article-images.mszpro.com/rack-a-bot-game-compressed.gif)
 
 ## This article talks about:
 - Adding VisionOS target to your existing app
