@@ -6,6 +6,9 @@ If you follow through this article, you can learn to make a mini game that shows
 
 ![rack-a-bot-game.gif](https://article-images.mszpro.com/rack-a-bot-game-compressed.gif)
 
+![Simulator Screenshot - Apple Vision Pro - 2024-08-21 at 21 42 37](https://github.com/user-attachments/assets/44dc76f9-a424-4ff6-87d5-0e8f38068190)
+
+
 ## This article talks about:
 - Adding VisionOS target to your existing app
 - Toggle the transparency of the view background
